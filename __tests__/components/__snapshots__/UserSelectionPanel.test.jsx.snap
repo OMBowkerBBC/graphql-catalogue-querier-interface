@@ -1,0 +1,106 @@
+// Vitest Snapshot v1
+
+exports[`UserSelectionPanel test suite > snapshot tests > should match starting snapshot 1`] = `
+<div
+  className="left-panel"
+>
+  <div
+    className="css-kvnfih"
+  >
+    <button
+      aria-expanded={false}
+      aria-haspopup="listbox"
+      aria-label="Choose a function... selected"
+      className="css-lmeovg"
+      id="dropdown-button-6"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      size="small"
+    >
+      Choose a function...
+      <div
+        className="css-e0jyqw"
+      >
+        <svg
+          focusable="false"
+          viewBox="0 0 32 32"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M16 29L32 3h-7.2L16 18.3 7.2 3H0l16 26z"
+          />
+        </svg>
+      </div>
+    </button>
+    <div
+      aria-live="polite"
+    />
+  </div>
+  <div
+    className="input-section"
+  >
+    <h1>
+      Select a Search Function
+    </h1>
+  </div>
+  <div
+    className="button-wrapper"
+  >
+    <button
+      className="css-1qahj5g"
+      data-size="medium"
+      disabled={false}
+      onClick={[Function]}
+      size="medium"
+      type="button"
+    >
+      <span
+        className="css-qa4xl4"
+      >
+        <svg
+          aria-label="search icon"
+          className="css-1n8p6mz"
+          viewBox="0 0 32 32"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M13 24.3c6.5 0 11.7-5.1 11.7-11.7S19.6 1 13 1 1.4 6.1 1.4 12.7 6.5 24.3 13 24.3zm0-2.6c-5.1 0-9-3.9-9-9.1s3.9-9.1 9-9.1 9 3.9 9 9.1-3.9 9.1-9 9.1zm5.8.4l8.9 8.9 2.9-2.9-8.9-8.9-2.9 2.9z"
+          />
+        </svg>
+      </span>
+      <span
+        className="css-19q73mt"
+      >
+        Search
+      </span>
+    </button>
+    <button
+      className="css-1qahj5g"
+      data-size="medium"
+      disabled={false}
+      size="medium"
+      type="button"
+    >
+      <span
+        className="css-qa4xl4"
+      >
+        <svg
+          aria-label="close icon"
+          className="css-1n8p6mz"
+          viewBox="0 0 32 32"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M30 4.6l-2.8-2.8L2 27.4l2.8 2.8L30 4.6zM4.8 1.8L1.9 4.7l25.2 25.5 2.9-2.9L4.8 1.8z"
+          />
+        </svg>
+      </span>
+      <span
+        className="css-19q73mt"
+      >
+        Cancel
+      </span>
+    </button>
+  </div>
+</div>
+`;

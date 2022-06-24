@@ -1,0 +1,26 @@
+.content-wrapper {
+  display: inline-flex;
+  width: 100%;
+  padding: 30px;
+  box-sizing: border-box;
+  height: 90vh;
+}
+
+.left-panel { flex: 1 }
+
+.input-section {
+  height: 80vh;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.button-wrapper { text-align: center }
+
+.button-height { height: auto }
+
+.right-panel {
+  flex: 1;
+  padding: 0 20px;
+  box-sizing: border-box;
+  overflow-y: auto;
+}

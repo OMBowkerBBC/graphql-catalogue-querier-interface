@@ -1,0 +1,10 @@
+[
+  {
+    "queryName": "getAll",
+    "returnTag": "Get All"
+  },
+  {
+    "queryName": "getNumberOfEpisodes",
+    "returnTag": "Get Number of Episodes"
+  }
+]

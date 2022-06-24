@@ -1,0 +1,12 @@
+[
+  {
+    "value": "getAll",
+    "label": "Get All",
+    "description": "Get all objects of given type."
+  },
+  {
+    "value": "getNumberOfEpisodes",
+    "label": "Get Number of Episodes",
+    "description": "Get a given number of episodes."
+  }
+]

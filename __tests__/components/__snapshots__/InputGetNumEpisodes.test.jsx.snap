@@ -1,0 +1,44 @@
+// Vitest Snapshot v1
+
+exports[`GetNumEpisodes test suite > snapshot tests > should match starting snapshot 1`] = `
+<div
+  className="css-n222kl"
+>
+  <div
+    className="css-1vjiq4b"
+  >
+    <label
+      className="css-xl6oz7"
+      htmlFor="input-c50fsjdr4d"
+      id="label-c50fsjdr4d"
+    >
+      Number of episodes to retrieve.
+    </label>
+  </div>
+  <div
+    className="css-130g1t6"
+    disabled={false}
+  >
+    <input
+      aria-invalid={false}
+      className="css-1et5r9b"
+      data-testid="input"
+      disabled={false}
+      id="input-c50fsjdr4d"
+      name="amount"
+      onChange={[Function]}
+      onKeyDown={[Function]}
+      placeholder="Amount..."
+      required={true}
+      type="text"
+      value=""
+    />
+  </div>
+  <div
+    aria-live="polite"
+  />
+  <div
+    aria-live="polite"
+  />
+</div>
+`;

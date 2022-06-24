@@ -1,0 +1,36 @@
+// Vitest Snapshot v1
+
+exports[`InputGetAll test suite > snapshot tests > should match starting snapshot 1`] = `
+<div
+  className="css-kvnfih"
+>
+  <button
+    aria-expanded={false}
+    aria-haspopup="listbox"
+    aria-label="Choose an option... - Select an option"
+    className="css-lmeovg"
+    id="dropdown-button-6"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    size="small"
+  >
+    Choose an option...
+    <div
+      className="css-e0jyqw"
+    >
+      <svg
+        focusable="false"
+        viewBox="0 0 32 32"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M16 29L32 3h-7.2L16 18.3 7.2 3H0l16 26z"
+        />
+      </svg>
+    </div>
+  </button>
+  <div
+    aria-live="polite"
+  />
+</div>
+`;
